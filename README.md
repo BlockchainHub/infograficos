@@ -1,6 +1,6 @@
 # Blockchain Hub: Infográficos
 
-Arquivos fonte e implementações animadas de infográficos feitos por [Patrícia Estevão](http://patestevao.com) ([txplab](https://txplab.com)) para o projeto Blockchain Hub.
+Arquivos fonte e implementações animadas de infográficos feitos por [Patrícia Estevão](http://patestevao.com) ([LXPARALLEL](https://www.lxparallel.com/)) para o projeto Blockchain Hub.
 
 ### Licença
 
